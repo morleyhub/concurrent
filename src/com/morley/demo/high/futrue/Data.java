@@ -11,23 +11,11 @@ package com.morley.demo.high.futrue;
 
 /** 
  * 数据接口(为了代理)
- * 
- * @author: Kevin
- * @官网: 	www.morley.com
- * @Q Q群:	660567408
- * @Email:	morley@163.com
- * [每天进步一点点、人生带来大改变...]
- * [本代码对应视频地址:http://study.163.com/course/introduction/1004176043.htm]
  */
 public interface Data {
 	
 	/**
 	 * 返回真实数据
-	 *
-	 * @author yin.hl
-	 * @Title: getRealData 
-	 * @return
-	 * @return: String
 	 */
 	public String getRealData();
 	

@@ -1,12 +1,3 @@
-/**   
- * 
- * @Title: FutureData.java 
- * @Prject: DemoThread
- * @Package: com.liang.demo.high.futrue 
- * @author: yin.hl
- * @date: 2017年3月26日 下午9:13:30 
- * @version: V1.0   
- */
 package com.morley.demo.high.futrue;
 
 /**
@@ -14,12 +5,6 @@ package com.morley.demo.high.futrue;
  * 当用户请求时,就把先把代理对象返回给客户端,提高响应速度。
  * 当用户需要使用真实数据的时候,再通过getRealData方法返回真实的数据
  * 
- * @author: Kevin
- * @官网: 	www.morley.com
- * @Q Q群:	660567408
- * @Email:	morley@163.com
- * [每天进步一点点、人生带来大改变...]
- * [本代码对应视频地址:http://study.163.com/course/introduction/1004176043.htm]
  */
 public class FutureData implements Data {
 
@@ -44,7 +29,6 @@ public class FutureData implements Data {
 
 	/**
 	 *
-	 * @author yin.hl
 	 * @Title: initRealData
 	 * @param param
 	 * @return: void

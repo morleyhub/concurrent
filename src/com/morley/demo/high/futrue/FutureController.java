@@ -13,12 +13,6 @@ package com.morley.demo.high.futrue;
 /** 
  * 接收请求的控制器(例如接收PC端请求)
  * 
-* @author: Kevin
- * @官网: 	www.morley.com
- * @Q Q群:	660567408
- * @Email:	morley@163.com
- * [每天进步一点点、人生带来大改变...]
- * [本代码对应视频地址:http://study.163.com/course/introduction/1004176043.htm]
  */
 public class FutureController {
 

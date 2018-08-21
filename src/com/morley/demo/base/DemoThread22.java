@@ -1,12 +1,3 @@
-/**   
- * 
- * @Title: DemoThread09.java 
- * @Prject: DemoThread
- * @Package: com.liang.demo 
- * @author: yin.hl
- * @date: 2017年3月20日 下午10:55:51 
- * @version: V1.0   
- */
 package com.morley.demo.base;
 
 /**
@@ -19,12 +10,6 @@ package com.morley.demo.base;
  * 则即便该对象已经空闲，其他wait状态等待的线程由于没有得到该对象的通知，继续处在wait状态，
  * 直到这个对象发出一个notify或notifyAll，它们等待的是被notify或notifyAll，而不是锁。
  * 
-  * @author: Kevin
- * @官网: 	www.morley.com
- * @Q Q群:	660567408
- * @Email:	morley@163.com
- * [每天进步一点点、人生带来大改变...]
- * [本代码对应视频地址:http://study.163.com/course/introduction/1004176043.htm]
  */
 public class DemoThread22 {
 
